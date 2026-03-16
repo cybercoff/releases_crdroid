@@ -2,7 +2,6 @@
 
 ⚠️ Notes:
 - Some debloat
-- All power hal changes by  @ThE_MarD  included in this version
 - No dolby / No Vipper / No KSU
 (My aim is to keep the ROM as 'vanilla' as possible)
 
