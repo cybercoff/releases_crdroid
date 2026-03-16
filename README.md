@@ -1,5 +1,7 @@
 ![crDroid Banner](./crdroid_github_banner.png)
 
+📥 [Download ROM](https://github.com/cybercoff/releases_crdroid/releases)
+
 Notes:
 - Some debloat
 - No dolby / No Vipper / No KSU
@@ -10,11 +12,7 @@ Notes:
 This is an **unofficial** build. Not affiliated with the crDroid team.
 Flash at your own risk. Always make a backup before flashing.
 
-📥 [Download ROM](https://github.com/cybercoff/releases_crdroid/releases)
-
-See assets below ⬇️
-➡️ Credits :-
-By DDM
+➡️ Credits : By DDM
 
 Thanks to all Spanish tg group
 
