@@ -1,4 +1,4 @@
-#crDroid #B #UNOFFICIAL #dubai
+![crDroid Banner](./crdroid_github_banner.png)
 
 ⚠️ Notes:
 - Some debloat
