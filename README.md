@@ -1,10 +1,18 @@
 ![crDroid Banner](./crdroid_github_banner.png)
 
-⚠️ Notes:
+Notes:
 - Some debloat
 - No dolby / No Vipper / No KSU
 (My aim is to keep the ROM as 'vanilla' as possible)
 
+⚠️ Disclaimer
+
+This is an **unofficial** build. Not affiliated with the crDroid team.
+Flash at your own risk. Always make a backup before flashing.
+
+📥 [Download ROM](https://github.com/cybercoff/releases_crdroid/releases)
+
+See assets below ⬇️
 ➡️ Credits :-
 By DDM
 
