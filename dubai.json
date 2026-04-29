@@ -1,7 +1,7 @@
 {
     "response": [
         {
-            "maintainer": "",
+            "maintainer": "DDM",
             "oem": "",
             "device": "",
             "filename": "crDroidAndroid-16.0-20260430-dubai-v12.9.zip",
@@ -11,9 +11,9 @@
             "sha256": "28a1469981b5ccdf84a01a8b971c28f57bf785860613e797e2ab86ed6350a48b",
             "size": 1659338822,
             "version": "12.9",
-            "buildtype": "",
+            "buildtype": "UNOFFICIAL",
             "forum": "",
-            "gapps": "",
+            "gapps": "MICROG",
             "firmware": "",
             "modem": "",
             "bootloader": "",
