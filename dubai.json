@@ -1,17 +1,17 @@
 {
     "response": [
         {
-            "maintainer": "",
+            "maintainer": "DDM",
             "oem": "",
             "device": "",
             "filename": "crDroidAndroid-16.0-20260702-dubai-v12.11.zip",
-            "download": "https://sourceforge.net/projects/crdroid/files/dubai/12.x/crDroidAndroid-16.0-20260702-dubai-v12.11.zip/download",
+            "download": "https://github.com/cybercoff/releases_crdroid/releases/download/v12.11_beta/crDroidAndroid-16.0-20260702-dubai-v12.11.zip",
             "timestamp": 1782995549,
             "md5": "cc94418aaa78980d7cb2df741d5d402e",
             "sha256": "9f0197da55bc97f6649c4df0277db23c692ac724532996543dee4c6e1e5d95ac",
             "size": 1740819160,
             "version": "12.11",
-            "buildtype": "",
+            "buildtype": "UNOFFICIAL",
             "forum": "",
             "gapps": "",
             "firmware": "",
